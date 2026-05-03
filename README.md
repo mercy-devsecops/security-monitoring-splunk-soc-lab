@@ -6,6 +6,9 @@ This project simulates a real-world Security Operations Center (SOC) environment
 It demonstrates log ingestion, threat detection, attack simulation, and security analytics across multiple virtual machines.
 
 The system includes Ubuntu Server, Windows 11 Lab, and Kali Linux to simulate real attacker–defender scenarios.
+ 
+📄 Full detailed lab documentation: [https://docs.google.com/document/d/1DqbK88FINThFx_4FGYfX1qu0xVuNelohMmWqHPeYE60/edit?usp=sharing]
+
 
 ---
 
